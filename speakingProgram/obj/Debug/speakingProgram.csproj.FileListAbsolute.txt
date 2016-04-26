@@ -1,0 +1,12 @@
+C:\Users\shawn\Desktop\c#_projects\speakingProgram\speakingProgram\bin\Debug\speakingProgram.exe.config
+C:\Users\shawn\Desktop\c#_projects\speakingProgram\speakingProgram\bin\Debug\speakingProgram.exe
+C:\Users\shawn\Desktop\c#_projects\speakingProgram\speakingProgram\bin\Debug\speakingProgram.pdb
+C:\Users\shawn\Desktop\c#_projects\speakingProgram\speakingProgram\obj\Debug\speakingProgram.csprojResolveAssemblyReference.cache
+C:\Users\shawn\Desktop\c#_projects\speakingProgram\speakingProgram\obj\Debug\speakingProgram.Form1.resources
+C:\Users\shawn\Desktop\c#_projects\speakingProgram\speakingProgram\obj\Debug\speakingProgram.Properties.Resources.resources
+C:\Users\shawn\Desktop\c#_projects\speakingProgram\speakingProgram\obj\Debug\speakingProgram.csproj.GenerateResource.Cache
+C:\Users\shawn\Desktop\c#_projects\speakingProgram\speakingProgram\obj\Debug\speakingProgram.exe
+C:\Users\shawn\Desktop\c#_projects\speakingProgram\speakingProgram\obj\Debug\speakingProgram.pdb
+C:\Users\shawnkoon\Desktop\Program\C#_Project\speakingProgram\speakingProgram\bin\Debug\speakingProgram.exe.config
+C:\Users\shawnkoon\Desktop\Program\C#_Project\speakingProgram\speakingProgram\obj\Debug\speakingProgram.exe
+C:\Users\shawnkoon\Desktop\Program\C#_Project\speakingProgram\speakingProgram\obj\Debug\speakingProgram.pdb
